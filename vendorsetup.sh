@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_i3113-eng
-add_lunch_combo aosp_i3113-userdebug
-add_lunch_combo aosp_i4113-eng
-add_lunch_combo aosp_i4113-userdebug
+add_lunch_combo lineage_kirin-eng
+add_lunch_combo lineage_kirin-userdebug
+add_lunch_combo lineage_kirin-user
+
